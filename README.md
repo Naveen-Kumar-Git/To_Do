@@ -25,9 +25,9 @@ todo-app/
 
 ## 🖥️ LIVE DEMO
 
-🔗 ---
+🔗 
 
-## 🖥️ LIVE DEMO
+
 
 🔗 [Click to View Live](https://your-username.github.io/todo-list/)
 
