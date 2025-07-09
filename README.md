@@ -18,9 +18,12 @@ This project helps you keep track of your tasks with a user-friendly interface a
 ## 📂 PROJECT STRUCTURE
 
 todo-app/
-├── index.html # HTML file
-├── style.css # Styling (Responsive Design)
-└── script.js # JavaScript Logic
+├── index.html # HTML file  
+
+├── style.css # Styling (Responsive Design)  
+
+└── script.js # JavaScript Logic  
+
 ---
 
 ## 🖥️ LIVE DEMO
