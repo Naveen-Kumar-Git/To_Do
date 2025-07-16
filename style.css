@@ -102,3 +102,15 @@ body.dark .delete-btn {
   color: #fff;
   cursor: pointer;
 }
+/* ✅ Task Counter Styling */
+#taskCounter {
+    margin: 15px 0;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+/* ✅ Completed tasks look crossed out */
+#taskList li.completed {
+    text-decoration: line-through;
+    color: gray;
+}
