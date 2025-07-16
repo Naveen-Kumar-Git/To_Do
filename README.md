@@ -10,7 +10,7 @@ This project helps you keep track of your tasks with a user-friendly interface a
 - ✅ Add New Tasks  
 - ✅ Mark Tasks as Completed  
 - ❌ Delete Tasks  
-- 💾 Persistent Storage with `localStorage`  
+- 💾 Persistent Storage with local storage. 
 - 📱 Mobile Responsive UI  
 
 ---
