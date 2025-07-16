@@ -13,8 +13,6 @@
 - Learned: `git branch -d dark-mode`, `git push origin --delete dark-mode`
 - Learned: `git branch`, `git branch -r`
 
-# 🛠️ Developer Log - To-Do List Project
-
 ## Day 3 - July 16, 2025
 - ✅ Added **Task Counter Feature** to the To-Do List app.
 - ✅ Counter shows:
